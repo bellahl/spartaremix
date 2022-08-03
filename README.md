@@ -26,7 +26,7 @@ OTOMAD Helper: An OP script to help you with visuals! - https://github.com/otoma
 Installation steps should be included in the pieces of software you download.
 
 After you're done installing everything, you should open Vegas Pro 14 and go to "Options" to set the settings below. 
-![image](https://user-images.githubusercontent.com/107021526/182551568-40e61b85-2020-4e30-8498-8e0f4364aa21.png)
+![image](https://user-images.githubusercontent.com/107021526/182570487-2d465669-d2f0-4f1e-a718-6358cc215397.png)
 
 Then, you need to follow the steps below. **Make sure you set the project BPM to whatever base you're using!**
 

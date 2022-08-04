@@ -21,9 +21,9 @@ OTOMAD Helper: An OP script to help you with visuals! - https://github.com/otoma
 
 ---
 
-**How do you make a remix?**
+**Setting up Vegas Pro 14**
 
-Installation steps should be included in the pieces of software you download.
+Install the regular installer, and then the patch.
 
 After you're done installing everything, you should open Vegas Pro 14 and go to "Options" to set the settings below. 
 ![image](https://user-images.githubusercontent.com/107021526/182570487-2d465669-d2f0-4f1e-a718-6358cc215397.png)
@@ -33,3 +33,20 @@ Then, you need to follow the steps below. **Make sure you set the project BPM to
 ![setup](https://user-images.githubusercontent.com/107021526/182555382-9d03d70b-c8be-4beb-9813-66f9b42b315b.gif)
 
 And, there you go! Vegas Pro 14 is now set up!
+
+---
+
+**Setting up FL Studio 20**
+
+Install the regular installer, and then the patch.
+
+After you're done installing everything, open FL Studio 20 and follow the steps below to get rid of Limiter. Limiter often ruins the balancing of audio and makes it sound really bad.
+
+
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/107021526/182764441-f7dadf73-c7bf-400b-9bc7-a3965196f0c3.gif)
+
+After that, you're all set up in FL Studio!
+
+---
+
+**Importing Sources and Sampling in Vegas Pro 14**

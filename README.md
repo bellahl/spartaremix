@@ -1,4 +1,4 @@
-# Sparta Remix Docs
+# Sparta Remix Docs (
 A GitHub page containing info on Sparta Remixing and the software to start remixing!
 
 ---
@@ -50,3 +50,10 @@ After that, you're all set up in FL Studio!
 ---
 
 **Importing Sources and Sampling in Vegas Pro 14**
+
+To import a source, follow the steps below:
+
+[import.webm](https://user-images.githubusercontent.com/107021526/183223896-538e6c0d-88b6-44f6-ae2a-b59c17f6c6ab.webm)
+
+
+

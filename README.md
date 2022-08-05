@@ -1,4 +1,4 @@
-# Sparta Remix Docs (
+# Sparta Remix Docs (NOT FINISHED YET)
 A GitHub page containing info on Sparta Remixing and the software to start remixing!
 
 ---

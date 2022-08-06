@@ -13,7 +13,16 @@ Sparta Remixes have advanced dramatically within the past 15 years it has existe
 
 **What's the software used?**
 
-The software that most remixers use is Vegas Pro (versions ranging from 13 to 19), FL Studio 20, and Melodyne/VocalShifter LE. **Unfortunatly, Vegas Pro and VocalShifter is not supported for iOS, Android, Mac and Linux devices. I am still attempting to find ways around this!**
+The software that most remixers use is Vegas Pro (versions ranging from 13 to 19), FL Studio 20, and Melodyne/VocalShifter LE. 
+
+---
+
+For a long tinme, Vegas was not possible to get running on Mac/Linux devices. But thanks to Javior06, he's made Vegas Pro 10/11 available to these users, check it out if you're a remixer with the afformentioned OS'!!
+
+"I have wrote a guide to run Vegas 10/11 on Mac and Linux devices! https://javier164.github.io/guide.html
+It should work. If it doesn't, please message me on what went wrong." -Javier06
+
+---
 
 SOFTWARE - https://mega.nz/folder/GKB0ERjZ#8o-RC5wO-Xy9Fb9yayCNZQ
 

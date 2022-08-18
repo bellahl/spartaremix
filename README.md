@@ -62,7 +62,18 @@ After that, you're all set up in FL Studio!
 
 To import a source, follow the steps below:
 
-[import.webm](https://user-images.githubusercontent.com/107021526/183223896-538e6c0d-88b6-44f6-ae2a-b59c17f6c6ab.webm)
+![import](https://user-images.githubusercontent.com/107021526/185509388-b954ae88-2c8a-45a3-9765-596c984bcd97.gif)
 
+To import a base, follow the same steps!
 
+---
 
+**Shortcuts to learn before remixing!**
+
+Ctrl + C = Copy
+Ctrl + V = Paste
+S = Split
+Del/Delete = Removes a specific clip off of your timeline.
+Space = Play
+
+TIP: Use your scrollwheel on an external mouse or use two fingers and drag up/down to move through Vegas! 

@@ -17,10 +17,9 @@ The software that most remixers use is Vegas Pro (versions ranging from 13 to 19
 
 ---
 
-For a long tinme, Vegas was not possible to get running on Mac/Linux devices. But thanks to Javior06, he's made Vegas Pro 10/11 available to these users, check it out if you're a remixer with the afformentioned OS'!!
+Vegas Pro 11 has been made available on devices like Chromebooks. Watch the tutorial here! https://www.youtube.com/watch?v=uztovQ2tWDs
 
-"I have wrote a guide to run Vegas 10/11 on Mac and Linux devices! https://javier164.github.io/guide.html
-It should work. If it doesn't, please message me on what went wrong." -Javier06
+Unfortunately, this version does not support flip scripts or OTOMAD. It's stil a very usable version, and you can do plenty with it like other versions!
 
 ---
 
